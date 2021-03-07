@@ -4,7 +4,7 @@ Debes instalar:
  - Composer
  - Git
 
-Debes ingresar a la carpeta en donde tines tus proyectos 
+- Debes ingresar a la carpeta en donde tines tus proyectos 
     - abrir una consola de comandos
     - git clone <urlRepositorio> ejem: git clone https://github.com/laravel/laravel.git
     - depues de que el proyecto se clone corretamete:
@@ -15,7 +15,7 @@ Debes ingresar a la carpeta en donde tines tus proyectos
     - Debes crear una APP_KEY con el siguiente comando
         - php artisan key:generate
 
-    Inicia el proyecto con:
+    - Inicia el proyecto con:
         - php artisan serve
     
 
