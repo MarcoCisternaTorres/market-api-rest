@@ -19,10 +19,16 @@ Debes instalar:
         - php artisan serve
     
 
----- comandos para subir repositorio por primera ves---
-git init
-git remote add origin -link-   //para enlazar tu carpeta local con tu repo creado en github
-git status   // ver el estatus de tus archivos locales
-git add *  // agregar archivos
-git commit -m "mensaje"  // Git mapee los cambios
-git push origin master   // subir archivos
+- Comandos para subir repositorio por primera ves
+    - git init
+    - git remote add origin -link-   //para enlazar tu carpeta local con tu repo creado en github
+    - git status   // ver el estatus de tus archivos locales
+    - git add *  // agregar archivos
+    - git commit -m "mensaje"  // Git mapee los cambios
+    - git push origin master   // subir archivos
+
+- Actualizar el proyecto
+    - git status   // ver el estatus de tus archivos locales
+    - git add *  // agregar archivos
+    - git commit -m "mensaje"  // Git mapee los cambios
+    - git push origin master   // subir archivos
