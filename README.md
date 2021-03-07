@@ -19,7 +19,7 @@ Debes instalar:
         - php artisan serve
     
 
-- Comandos para subir repositorio por primera ves
+- Comandos para subir repositorio por primera vez
     - git init
     - git remote add origin -link-   //para enlazar tu carpeta local con tu repo creado en github
     - git status   // ver el estatus de tus archivos locales
